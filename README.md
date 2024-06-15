@@ -1,3 +1,5 @@
+Telecharger le dossier complet au format zip, decompreser
+
 Importer les fichiers candidats dans le dossier "input"
 
 Dans le fichier "candidats.txt", entrer a chaque ligne le numero du candidat suivis du numero d'anonymat sous la forme "NumeroCandidat;NumeroAnonymat;"
