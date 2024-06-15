@@ -1,7 +1,7 @@
-Telecharger le dossier complet au format zip, decompreser
+Telecharger le dossier complet en cliquant sur le bouton vert "Code", telecharger ZIP. Decompreser le dossier sur votre ordinateur.
 
-Importer les fichiers candidats dans le dossier "input"
+Importer les fichiers candidats dans le dossier "input".
 
-Dans le fichier "candidats.txt", entrer a chaque ligne le numero du candidat suivis du numero d'anonymat sous la forme "NumeroCandidat;NumeroAnonymat;"
+Dans le fichier "candidats.txt", entrer a chaque ligne le numero du candidat suivis du numero d'anonymat sous la forme "NumeroCandidat;NumeroAnonymat;".
 
-Lancer l'executable replace.exe en autorisant windows (y'a pas de virus, Trust me i'm an engineer)
+Lancer l'executable replace.exe en autorisant windows (y'a pas de virus, Trust me i'm an engineer).
